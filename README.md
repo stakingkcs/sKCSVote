@@ -13,7 +13,7 @@ And here is a sample proposal on snapshot you can play with: [The test proposal]
 
 ## Details 
 
-`Direct Holdings`: The sKCS in your wallet
+`Direct Holdings`: The sKCS in your wallet  
 `Indirect Holdings`: 
   - Indirect holding by holding Torches SKCS token (i.e supply sKCS on torches)  
   - Indirect holding by holding Mojito LP tokens(i.e Add liquidity to Mojito, including farming with your LP)s 
